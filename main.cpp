@@ -31,5 +31,6 @@ int main()
    A a(4);
    A b=a;
    b.show();
+   cout <<"CROATIA LOSES EVERYTIME";
    return 0;
 }
